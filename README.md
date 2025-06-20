@@ -1,4 +1,4 @@
-# 👋 <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" width="30" alt="wave"/> Hello, I’m **mns70** | (**MnsDew**)
+#  <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" width="30" alt="wave"/> Hello, I’m **mns70** | (**MnsDew**)
 
 ### 🚀 Full-Stack Developer | JavaScript & Java | Passionate About Clean, Scalable Code
 
