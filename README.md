@@ -1,4 +1,4 @@
-# 👋 Hello, I’m **mns70** (aka **MnsDew**)
+# 👋 Hello, I’m **mns70** | (**MnsDew**)
 
 ### 🚀 Full-Stack Developer | JavaScript & Java | Passionate About Clean, Scalable Code
 
