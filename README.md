@@ -1,4 +1,4 @@
-# 👋 Hello, I’m **mns70** | (**MnsDew**)
+# 👋 <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" width="30" alt="wave"/> Hello, I’m **mns70** | (**MnsDew**)
 
 ### 🚀 Full-Stack Developer | JavaScript & Java | Passionate About Clean, Scalable Code
 
@@ -35,7 +35,13 @@ I’m a dedicated full-stack software engineer focused on building high-quality,
 
 ---
 
-Thanks for visiting! Feel free to explore my projects and connect via GitHub or my portfolio.
+### ⚡ Fun Animated Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MnsDew&show_icons=true&theme=radical&count_private=true&hide=issues" alt="MnsDew's GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MnsDew&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
